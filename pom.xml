@@ -37,6 +37,7 @@
 	<modules>
 		<module>modules/demo/pom.xml</module>
 		<module>modules/releaseplugin/pom.xml</module>
+		<module>modules/using/pom.xml</module>
 	</modules>
 
 	<build>
