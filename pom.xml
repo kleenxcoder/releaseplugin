@@ -22,6 +22,14 @@
 	  <tag>releaseplugin-0.0.4</tag>
   </scm>
   
+   <distributionManagement>
+		<repository>
+			<id>repo1</id>
+			<name>Release</name>
+			<url>file://C:/123</url>
+		</repository>
+	</distributionManagement>
+  
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
