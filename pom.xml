@@ -26,6 +26,11 @@
 		<skip.unit.tests>false</skip.unit.tests>
 		<skip.integration.tests>true</skip.integration.tests>
 	</properties>
+	
+	<scm>
+		<developerConnection>scm:git:https://github.com/kleenxcoder/releaseplugin.git</developerConnection>
+	  <tag>releaseplugin-0.0.4</tag>
+  </scm>
 
 
 	<dependencies>
