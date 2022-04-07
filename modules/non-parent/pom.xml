@@ -12,7 +12,7 @@
 -->
 	
 	
-<!--	<groupId>com.example</groupId> -->
+	<groupId>com.example</groupId>
 	<artifactId>non-parent</artifactId>
 	<version>0.0.6-SNAPSHOT</version>
 	<name>using</name>
@@ -22,17 +22,6 @@
 	</properties>
 	
 	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
-		</dependency>
-
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-test</artifactId>
-			<scope>test</scope>
-		</dependency>
-		
 		
 		<dependency>
 			<groupId>com.example</groupId>
