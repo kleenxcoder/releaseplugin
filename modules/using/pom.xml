@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>com.example</groupId>
 		<artifactId>master-pom</artifactId>
-		<version>0.0.12-SNAPSHOT</version>
+		<version>0.0.12</version>
 		<relativePath>../../pom.xml</relativePath>
 	</parent>
 	
 <!--	<groupId>com.example</groupId> -->
 	<artifactId>using</artifactId>
-	<version>0.0.5-SNAPSHOT</version>
+	<version>0.0.5</version>
 	<name>using</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -34,13 +34,13 @@
 		<dependency>
 			<groupId>com.example</groupId>
 			<artifactId>demo</artifactId>
-			<version>0.1.5-SNAPSHOT</version>
+			<version>0.1.5</version>
 		</dependency>
 
 		<dependency>
 			<groupId>com.example</groupId>
 			<artifactId>releaseplugin</artifactId>
-			<version>0.0.12-SNAPSHOT</version>
+			<version>0.0.12</version>
 		</dependency>
 		
 		
