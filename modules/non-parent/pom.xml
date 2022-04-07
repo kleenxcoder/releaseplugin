@@ -15,7 +15,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>non-parent</artifactId>
 	<version>0.0.6-SNAPSHOT</version>
-	<name>using</name>
+	<name>non-parent</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
