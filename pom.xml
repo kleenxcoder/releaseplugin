@@ -11,7 +11,7 @@
 
 		<groupId>com.example</groupId>
 		<artifactId>master-pom</artifactId>
-		<version>0.0.17-SNAPSHOT</version>
+		<version>0.0.17</version>
 	<packaging>pom</packaging>
 
 	<properties>
@@ -28,7 +28,7 @@
 	
 	<scm>
 		<developerConnection>scm:git:https://github.com/kleenxcoder/releaseplugin.git</developerConnection>
-	  <tag>v0.0.15</tag>
+	  <tag>v0.0.17</tag>
   </scm>
 
 
