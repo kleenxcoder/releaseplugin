@@ -28,6 +28,19 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		
+		<dependency>
+			<groupId>com.example</groupId>
+			<artifactId>demo</artifactId>
+			<version>0.1.7-SNAPSHOT</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.example</groupId>
+			<artifactId>releaseplugin</artifactId>
+			<version>0.0.14-SNAPSHOT</version>
+		</dependency>
+		
 	</dependencies>
 
 	<build>
