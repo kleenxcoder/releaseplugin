@@ -6,7 +6,7 @@
 		<groupId>com.example</groupId>
 		<artifactId>master-pom</artifactId>
 		<version>0.0.14-SNAPSHOT</version>
-		<relativePath>../../pom.xml</relativePath>
+		<relativePath>../master-pom/pom.xml</relativePath>
 	</parent>
 	
 <!--	<groupId>com.example</groupId> -->
