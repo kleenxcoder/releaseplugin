@@ -30,7 +30,7 @@
 			<scope>test</scope>
 		</dependency>
 		
-		
+<!--		
 		<dependency>
 			<groupId>com.example</groupId>
 			<artifactId>demo</artifactId>
@@ -42,7 +42,7 @@
 			<artifactId>releaseplugin</artifactId>
 			<version>0.0.14-SNAPSHOT</version>
 		</dependency>
-		
+-->		
 		
 	</dependencies>
 
